@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Times New Roman', serif;
+    padding: 20px;
+    line-height: 50px;
+}
+h1 {
+    font-size: 2.5rem;
+}
+
+ input {
+    padding: 5px 10px 0 82px;
+    text-align: left;
+}
+button {
+    display: inline-block;
+    padding: 5px 10px 0 177px;
+    text-align: center;
+    
+    } 
+table {
+    border-collapse: collapse;
+    width: 80%;
+   
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 5px 25px;
+    text-align: left;
+    border-color: rgb(254, 192, 6);
+}
+th {
+    background: rgb(254, 192, 6);
+    color: black;
+    text-align: center;
+    font-size: 1.5rem;
+}
+td {
+    background: rgb(20, 20, 57);
+    color: white;
+    
+}
+tr {
+    background: rgb(254, 192, 6); 
+     
+}
